@@ -1,159 +1,163 @@
----
-title: Contributing to projects
-intro: Learn how to contribute to a project through forking.
-permissions: '{% data reusables.enterprise-accounts.emu-permission-fork %}'
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
-  ghec: '*'
-topics:
-  - Pull requests
-  - Forks
-  - GitHub
-  - Open Source
----
+},
+"fallback_name": "Knight Connie", "invitation_status": "ACCEPTED_INVITATION", "participant_type": "GAIA", "new_invitation_status": "ACCEPTED_INVITATION", "in_different_customer_as_requester": false, "domain_id": "105250506097979753968"
+}, {
+"id": {
+"gaia_id": "112015267405161078433", "chat_id": "112015267405161078433"
+},
+"fallback_name": "mattietsimpsonrlwr3@gmail.com", "invitation_status": "ACCEPTED_INVITATION", "participant_type": "GAIA",
+"new_invitation_status": "ACCEPTED_INVITATION", "in_different_customer_as_requester": false, "domain_id": "105250506097979753968"
+} ],
+"fork_on_external_invite": false, "network_type": [
+"BABEL" ],
+"force_history_state": "NO_FORCE", "group_link_sharing_status": "LINK_SHARING_OFF"
 
-## About forking
+} },
+"events": [ {
+"conversation_id": {
+"id": "UgwS-u3VqQfB7sIll4Z4AaABAQ"
+}, "sender_id": {
+"gaia_id": "105533887280497053223",
+"chat_id": "105533887280497053223" },
+"timestamp": "1634778280674317", "self_event_state": {
+"user_id": {
+"gaia_id": "110377249148325414087", "chat_id": "110377249148325414087"
+} },
+"membership_change": { "type": "JOIN", "participant_id": [
+{
+"gaia_id": "118392832693303166131", "chat_id": "118392832693303166131"
+}, {
+"gaia_id": "112224458262044661468",
+"chat_id": "112224458262044661468" },
+{
+"gaia_id": "110377249148325414087", "chat_id": "110377249148325414087"
+}, {
+"gaia_id": "109700676476921111688",
+"chat_id": "109700676476921111688" },
+{
+"gaia_id": "112015267405161078433", "chat_id": "112015267405161078433"
+},
+{
+"gaia_id": "108310778469795256626",
 
-After using GitHub by yourself for a while, you may find yourself wanting to contribute to someone else’s project. Or maybe you’d like to use someone’s project as the starting point for your own. This process is known as forking.
+"chat_id": "108310778469795256626" },
+{
+"gaia_id": "103160379588730302986", "chat_id": "103160379588730302986"
+}, {
+"gaia_id": "105328618150775584720",
+"chat_id": "105328618150775584720" },
+{
+"gaia_id": "106727903882355881518", "chat_id": "106727903882355881518"
+}, {
+"gaia_id": "103674904767624698137",
+"chat_id": "103674904767624698137" },
+{
+"gaia_id": "102987366561824109431", "chat_id": "102987366561824109431"
+}, {
+"gaia_id": "101169513759377730994",
+"chat_id": "101169513759377730994" },
+{
+"gaia_id": "117069848966389705100", "chat_id": "117069848966389705100"
+}, {
+"gaia_id": "112901015261906167328",
+"chat_id": "112901015261906167328" }
+],
+"leave_reason": "LEAVE_REASON_UNKNOWN" },
+"event_id": "9TjtDLz4_Bh9TjtDqE1uyi", "advances_sort_timestamp": true, "event_otr": "ON_THE_RECORD", "delivery_medium": {
+"medium_type": "BABEL_MEDIUM" },
 
-Creating a "fork" is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit pull requests to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub. For more information, see "[Fork a repo](/get-started/quickstart/fork-a-repo)."
+"event_type": "ADD_USER",
+"event_version": "1634778280674317" },
+{
+"conversation_id": {
+"id": "UgwS-u3VqQfB7sIll4Z4AaABAQ" },
+"sender_id": {
+"gaia_id": "105533887280497053223", "chat_id": "105533887280497053223"
+},
+"timestamp": "1634778282982041", "self_event_state": {
+"user_id": {
+"gaia_id": "110377249148325414087",
+"chat_id": "110377249148325414087" }
+}, "chat_message": {
+"message_content": { "segment": [
+{
+"type": "TEXT",
+"text": "Could you have a sexual fantasy about me? Check me out here", "formatting": {
+"bold": false, "italics": false, "strikethrough": false, "underline": false
+} }
+] }
+},
+"event_id": "9TjtDLz4_Bh.~EPukusgGKAE", "advances_sort_timestamp": true, "event_otr": "ON_THE_RECORD", "delivery_medium": {
+"medium_type": "BABEL_MEDIUM" },
+"event_type": "REGULAR_CHAT_MESSAGE",
+"event_version": "1634778282982041" },
 
-## Forking a repository
+{
+"conversation_id": {
+"id": "UgwS-u3VqQfB7sIll4Z4AaABAQ" },
+"sender_id": {
+"gaia_id": "112015267405161078433", "chat_id": "112015267405161078433"
+},
+"timestamp": "1635042658580640", "self_event_state": {
+"user_id": {
+"gaia_id": "110377249148325414087", "chat_id": "110377249148325414087"
+} },
+"chat_message": { "annotation": [
+{
+"type": 5,
+"value": "" }
+], "message_content": {
+"attachment": [ {
+"embed_item": { "type": [
+"PLUS_PHOTO" ],
+"plus_photo": { "thumbnail": {
+"url": "https://plus.google.com/photos/albums/ p28v4rjaik9o1ohqrqss6vm5ilsnjsr1r?
+pid=7022454738548345010&oid=112015267405161078433",
+"image_url": "https://lh3.googleusercontent.com/-16dXkz80068/
+YXTFYM5uyLI/AAAAAAADnYQ/jwZKA7y-WhQnE717caBN9VNBaEzX- KABwCJEEGAsYHg/s0/2021-10-23.jpg",
+"width_px": 200,
+"height_px": 276 },
+"owner_obfuscated_id": "112015267405161078433", "album_id": "7022454730989054209",
+"photo_id": "7022454738548345010",
 
-This tutorial uses [the Spoon-Knife project](https://github.com/octocat/Spoon-Knife), a test repository that's hosted on {% data variables.product.prodname_dotcom_the_website %} that lets you test the fork and pull request workflow.
+"url": "https://lh3.googleusercontent.com/-16dXkz80068/YXTFYM5uyLI/ AAAAAAADnYQ/jwZKA7y-WhQnE717caBN9VNBaEzX-KABwCJEEGAsYHg/ s0/2021-10-23.jpg",
+"original_content_url": "https://lh3.googleusercontent.com/ 4tBr93rsuh2qC7nIBUGpO2ascemTm9M0VGPw8MhE1w6Z-qLNDdgUf- DkFj1WLrYl5hTqZfVFKsju-aQU0YE",
+"media_type": "PHOTO", "stream_id": [
+"BABEL_UNIQUE_ID_2f73a1d7-9a36-4327-8204-9f21952bfbea", "BABEL_STREAM_ID",
+"shared_group_7022454738548345010"
+] }
+},
+"id": "ph-5814997221472148777-fb" }
+] }
+},
+"event_id": "9TjtDLz4_Bh.~EIS1i40GKAE", "advances_sort_timestamp": true, "event_otr": "ON_THE_RECORD", "delivery_medium": {
+"medium_type": "BABEL_MEDIUM" },
+"event_type": "REGULAR_CHAT_MESSAGE",
+"event_version": "1635042658580640" },
+{
+"conversation_id": {
+"id": "UgwS-u3VqQfB7sIll4Z4AaABAQ" },
+"sender_id": {
+"gaia_id": "112015267405161078433", "chat_id": "112015267405161078433"
+},
+"timestamp": "1635042659653197", "self_event_state": {
+"user_id": {
+"gaia_id": "110377249148325414087",
+"chat_id": "110377249148325414087" }
+},
 
-1. Navigate to the `Spoon-Knife` project at https://github.com/octocat/Spoon-Knife.
-2. Click **Fork**.
-   ![Fork button](/assets/images/help/repository/fork_button.jpg)
-1. {% data variables.product.product_name %} will take you to your copy (your fork) of the Spoon-Knife repository.
-
-## Cloning a fork
-
-You've successfully forked the Spoon-Knife repository, but so far, it only exists on {% data variables.product.product_name %}. To be able to work on the project, you will need to clone it to your computer.
-
-You can clone your fork with the command line, {% data variables.product.prodname_cli %}, or {% data variables.product.prodname_desktop %}.
-
-{% include tool-switcher %}
-{% webui %}
-
-1. On {% data variables.product.product_name %}, navigate to **your fork** of the Spoon-Knife repository.
-{% data reusables.repositories.copy-clone-url %}
-{% data reusables.command_line.open_the_multi_os_terminal %}
-{% data reusables.command_line.change-current-directory-clone %}
-4. Type `git clone`, and then paste the URL you copied earlier. It will look like this, with your {% data variables.product.product_name %} username instead of `YOUR-USERNAME`:
-  ```shell
-  $ git clone https://{% data variables.command_line.codeblock %}/<em>YOUR-USERNAME</em>/Spoon-Knife
-  ```
-
-5. Press **Enter**. Your local clone will be created.
-  ```shell
-  $ git clone https://{% data variables.command_line.codeblock %}/<em>YOUR-USERNAME</em>/Spoon-Knife
-  > Cloning into `Spoon-Knife`...
-  > remote: Counting objects: 10, done.
-  > remote: Compressing objects: 100% (8/8), done.
-  > remove: Total 10 (delta 1), reused 10 (delta 1)
-  > Unpacking objects: 100% (10/10), done.
-  ```
-
-{% endwebui %}
-
-{% cli %}
-
-{% data reusables.cli.cli-learn-more %}
-
-To create a clone of your fork, use the `--clone` flag.
-
-```shell
-gh repo fork <em>repository</em> --clone=true
-```
-
-{% endcli %}
-
-{% desktop %}
-
-{% data reusables.desktop.choose-clone-repository %}
-{% data reusables.desktop.cloning-location-tab %}
-{% data reusables.desktop.cloning-repository-list %}
-{% data reusables.desktop.choose-local-path %}
-{% data reusables.desktop.click-clone %}
-
-{% enddesktop %}
-
-## Making and pushing changes
-
-Go ahead and make a few changes to the project using your favorite text editor, like [Atom](https://atom.io). You could, for example, change the text in `index.html` to add your GitHub username.
-
-When you're ready to submit your changes, stage and commit your changes. `git add .` tells Git that you want to include all of your changes in the next commit. `git commit` takes a snapshot of those changes.
-
-{% include tool-switcher %}
-{% webui %}
-
-```shell
-git add .
-git commit -m "a short description of the change"
-```
-
-{% endwebui %}
-
-{% cli %}
-
-```shell
-git add .
-git commit -m "a short description of the change"
-```
-
-{% endcli %}
-
-{% desktop %}
-
-For more information about how to stage and commit changes in {% data variables.product.prodname_desktop %}, see "[Committing and reviewing changes to your project](/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project#selecting-changes-to-include-in-a-commit)."
-
-{% enddesktop %}
-
-When you stage and commit files, you essentially tell Git, "Okay, take a snapshot of my changes!" You can continue to make more changes, and take more commit snapshots.
-
-Right now, your changes only exist locally. When you're ready to push your changes up to {% data variables.product.product_name %}, push your changes to the remote.
-
-{% include tool-switcher %}
-{% webui %}
-
-```shell
-git push
-```
-
-{% endwebui %}
-
-{% cli %}
-
-```shell
-git push
-```
-
-{% endcli %}
-
-{% desktop %}
-
-For more information about how to push changes in {% data variables.product.prodname_desktop %}, see "[Pushing changes to GitHub](/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/pushing-changes-to-github)."
-
-{% enddesktop %}
-
-## Making a pull request
-
-At last, you're ready to propose changes into the main project! This is the final step in producing a fork of someone else's project, and arguably the most important. If you've made a change that you feel would benefit the community as a whole, you should definitely consider contributing back.
-
-To do so, head on over to the repository on {% data variables.product.product_name %} where your project lives. For this example, it would be at `https://www.github.com/<your_username>/Spoon-Knife`. You'll see a banner indicating that your branch is one commit ahead of `octocat:main`. Click **Contribute** and then **Open a pull request**.
-
-{% data variables.product.product_name %} will bring you to a page that shows the differences between your fork and the `octocat/Spoon-Knife` repository. Click **Create pull request**.
-
-{% data variables.product.product_name %} will bring you to a page where you can enter a title and a description of your changes. It's important to provide as much useful information and a rationale for why you're making this pull request in the first place. The project owner needs to be able to determine whether your change is as useful to everyone as you think it is. Finally, click **Create pull request**.
-
-## Managing feedback
-
-Pull Requests are an area for discussion. In this case, the Octocat is very busy, and probably won't merge your changes. For other projects, don't be offended if the project owner rejects your pull request, or asks for more information on why it's been made. It may even be that the project owner chooses not to merge your pull request, and that's totally okay. Your copy will exist in infamy on the Internet. And who knows--maybe someone you've never met will find your changes much more valuable than the original project.
-
-## Finding projects
-
-You've successfully forked and contributed back to a repository. Go forth, and
-contribute some more!{% ifversion fpt %} For more information, see "[Finding ways to contribute to open source on GitHub](/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github)."{% endif %}
+"chat_message": { "message_content": {
+"segment": [ {
+"type": "TEXT",
+"text": "Shouldn't be hard to find me a guy today... This girl has needs... ", "formatting": {
+"bold": false, "italics": false, "strikethrough": false, "underline": false
+} },
+{
+"type": "LINK",
+"text": "https://whorible.com/xsezb5A1TZ2", "link_data": {
+"link_target": "https://www.google.com/url?q=https://whorible.com/ xsezb5A1TZ2&sa=D&source=hangouts&ust=1635131055428000&usg=AOvVaw2QCM qCHYeS7gX5quEc5bby"
+} }
+] }
+},
+"event_id": "9TjtDLz4_Bh.~ENe4ufsLKAE", "advances_sort_timestamp": true, "event_otr": "ON_THE_RECORD", "delivery_medium": {
+"medium_type": "BABEL_MEDIUM" },
+"event_type": "REGULAR_CHAT_MESSAGE",
