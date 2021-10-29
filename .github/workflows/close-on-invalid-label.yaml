@@ -1,29 +1,41 @@
-name: Close issue/PR on adding invalid label
+Path: <sip:dm6/OIP45VT83QUK8TAWH5AK8Snx+KI=@10.241.48.22;lr;ob>\r
+Supported: outbound\r
+Require: outbound\r
+Server: sip-registrar1.tncp\r
+Content-Length: 0\r
+\r
 
-on:
-  issues:
-    types: [labeled]
-  pull_request_target:
-    types: [labeled]
 
-permissions:
-  issues: write
-  pull-requests: write
+[2021-07-14T12:22:11.836Z] DEBUG - phoneServiceModule/eventRouter - registerConnectionEvents: event received: phone-service-ready, adapter: sip-js"
+"[2021-07-14T12:22:22.495Z] DEBUG - permissionService - handleMicrophoneAccessDenied()
+[2021-07-14T12:22:22.514Z] DEBUG - phoneServiceModule/eventRouter - setServiceState(disabled-no-audio)"
+"[2021-07-14T12:22:33.728Z] INFO - CallDetailsLog - CALL_DETAILS_NETWORK_CHANGED: downlink: 1.8, downlinkMax: null, effectiveType: 4g, rtt: 150, type: null
+[2021-07-14T12:22:41.866Z] INFO - CallDetailsLog - CALL_DETAILS_SIP_MESSAGE: Outgoing - OPTIONS sip:13525801398_3B2akTbTW9nTxzzjUR081j500eDh1XHXX4O6lbxNtBvv@prod.tncp.textnow.com SIP/2.0\r
+Via: SIP/2.0/WSS jch579qmvb8v.invalid;branch=z9hG4bK407553\r
+Max-Forwards: 70\r
+To: <sip:13525801398_3B2akTbTW9nTxzzjUR081j500eDh1XHXX4O6lbxNtBvv@prod.tncp.textnow.com>\r
+From: <sip:13525801398_3B2akTbTW9nTxzzjUR081j500eDh1XHXX4O6lbxNtBvv@prod.tncp.textnow.com>;tag=o8ho436927\r
+Call-ID: ers5dcncf5oi49j8kv1m\r
+CSeq: 3581 OPTIONS\r
+Supported: outbound\r
+User-Agent: SIP.js/0.11.6\r
+Content-Length: 0\r
+\r
 
-jobs:
-  close-on-adding-invalid-label:
-    if: github.repository == 'github/docs' && github.event.label.name == 'invalid'
-    runs-on: ubuntu-latest
 
-    steps:
-      - name: Close issue
-        if: ${{ github.event_name == 'issues' }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh issue close ${{ github.event.issue.html_url }}
+[2021-07-14T12:22:41.983Z] INFO - CallDetailsLog - CALL_DETAILS_SIP_MESSAGE: Incoming - SIP/2.0 200 OK\r
+Via: SIP/2.0/WSS jch579qmvb8v.invalid;branch=z9hG4bK407553;rport=63650;received=10.241.41.241\r
+To: <sip:13525801398_3B2akTbTW9nTxzzjUR081j500eDh1XHXX4O6lbxNtBvv@prod.tncp.textnow.com>;tag=e95814102b11b868533fab3273132772.6a910000\r
+From: <sip:13525801398_3B2akTbTW9nTxzzjUR081j500eDh1XHXX4O6lbxNtBvv@prod.tncp.textnow.com>;tag=o8ho436927\r
+Call-ID: ers5dcncf5oi49j8kv1m\r
+CSeq: 3581 OPTIONS\r
+Server: sip-proxy-ws1.tncp\r
+Content-Length: 0\r
+\r
 
-      - name: Close PR
-        if: ${{ github.event_name == 'pull_request_target' }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh pr close ${{ github.event.pull_request.html_url }}
+"
+"[2021-07-14T12:23:11.855Z] INFO - CallDetailsLog - CALL_DETAILS_SIP_MESSAGE: Outgoing - OPTIONS sip:13525801398_3B2akTbTW9nTxzzjUR081j500eDh1XHXX4O6lbxNtBvv@prod.tncp.textnow.com SIP/2.0\r
+Via: SIP/2.0/WSS jch579qmvb8v.invalid;branch=z9hG4bK8061820\r
+Max-Forwards: 70\r
+To: <sip:13525801398_3B2akTbTW9nTxzzjUR081j500eDh1XHXX4O6lbxNtBvv@prod.tncp.textnow.com>\r
+From: <sip:13525801398_3B2akTbTW9nTxzzjUR081j500eDh1XHXX4O6lbxNtBvv@prod.tncp.te
