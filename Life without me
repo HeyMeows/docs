@@ -1,0 +1,227 @@
+Search Engines": [
+        {
+            "suggestions_url": "",
+            "favicon_url": "https://www.youtube.com/yts/img/
+favicon_32-vflOogEID.png",
+            "safe_for_autoreplace": true,
+            "date_created": 13187345648384305,
+            "url": "https://www.youtube.com/results?
+search_query\u003d{searchTerms}\u0026page\u003d{startPage?}
+\u0026utm_source\u003dopensearch",
+            "new_tab_url": "",
+            "originating_url": "https://www.youtube.com/opensearch?
+locale\u003den_US",
+ },
+{
+"sync_guid": "86ef8544-a106-45fa-ad96-fdf626a58c25",
+"short_name": "YouTube Video Search",
+"keyword": "youtube.com",
+"input_encodings": "",
+"prepopulate_id": 0,
+"last_modified": 13187345648384306
+            "suggestions_url": "https://search.yahoo.com/sugg/chrome?
+output\u003dfxjson\u0026appid\u003dcrmas\u0026command\u003d{searchTerm
+s}",
+            "favicon_url": "https://search.yahoo.com/favicon.ico",
+            "safe_for_autoreplace": true,
+            "date_created": 0,
+            "url": "https://search.yahoo.com/
+search{google:pathWildcard}?ei\u003d{inputEncoding}
+\u0026fr\u003dcrmas\u0026p\u003d{searchTerms}",
+            "new_tab_url": "",
+            "originating_url": "",
+            "sync_guid": "3e607
+046-b509-48f5-b647-f7b835fe17a6",
+            "short_name": "Yahoo!",
+            "keyword": "yahoo.com",
+            "input_encodings": "UTF-8",
+            "prepopulate_id": 2,
+            "last_modified": 13257499763260275
+},
+{
+            "suggestions_url": "{google:baseSuggestURL}search?
+{google:searchFieldtrialParameter}client\u003d{google:suggestClient}
+\u0026gs_ri\u003d{google:suggestRid}
+\u0026xssi\u003dt\u0026q\u003d{searchTerms}\u0026{google:inputType}
+{google:omniboxFocusType}{google:cursorPosition}
+{google:currentPageUrl}{google:pageClassification}
+{google:searchVersion}{google:sessionToken}{google:prefetchQuery}
+
+sugkey\u003d{google:suggestAPIKeyParameter}",
+            "image_url_post_params":
+"encoded_image\u003d{google:imageThumbnail},image_url\u003d{google:ima
+geURL},sbisrc\u003d{google:imageSearchSource},original_width\u003d{goo
+gle:imageOriginalWidth},original_height\u003d{google:imageOriginalHeig
+ht}",
+            "favicon_url": "https://www.google.com/images/branding/
+product/ico/googleg_lodp.ico",
+            "safe_for_autoreplace": true,
+            "date_created": 0,
+            "image_url": "{google:baseURL}searchbyimage/upload",
+            "url": "{google:baseURL}search?q\u003d{searchTerms}
+\u0026{google:RLZ}{google:originalQueryForSuggestion}
+{google:assistedQueryStats}{google:searchFieldtrialParameter}
+{google:iOSSearchLanguage}{google:searchClient}{google:sourceId}
+{google:contextualSearchVersion}ie\u003d{inputEncoding}",
+ },
+{
+"new_tab_url": "",
+"originating_url": "",
+"sync_guid": "d87be78c-3cbe-432f-b185-5f3cbb8f3ecb",
+"short_name": "Google",
+"keyword": "google.com",
+"input_encodings": "UTF-8",
+"alternate_urls": [
+            "{google:baseURL}#q\u003d{searchTerms}",
+            "{google:baseURL}search#q\u003d{searchTerms}",
+            "{google:baseURL}webhp#q\u003d{searchTerms}",
+            "{google:baseURL}s#q\u003d{searchTerms}",
+            "{google:baseURL}s?q\u003d{searchTerms}"
+],
+"prepopulate_id": 1,
+"last_modified": 0
+            "suggestions_url": "https://duckduckgo.com/ac/?
+q\u003d{searchTerms}\u0026type\u003dlist",
+},
+{
+"favicon_url": "https://duckduckgo.com/favicon.ico",
+"safe_for_autoreplace": true,
+"date_created": 0,
+"url": "https://duckduckgo.com/?q\u003d{searchTerms}",
+"new_tab_url": "",
+"originating_url": "",
+"sync_guid": "c614b64f-8c4f-44dd-bfea-8dafd351e064",
+"short_name": "DuckDuckGo",
+"keyword": "duckduckgo.com",
+"input_encodings": "UTF-8",
+"prepopulate_id": 92,
+"last_modified": 0
+"suggestions_url": "",
+
+            "favicon_url": "",
+            "safe_for_autoreplace": true,
+            "date_created": 13196990983925922,
+            "url": "https://drive.google.com/drive/search?
+q\u003d{searchTerms}",
+            "new_tab_url": "",
+            "originating_url": "https://drive.google.com/
+opensearch.xml",
+ },
+{
+"sync_guid": "f3ebeb0b-6d13-492e-8673-afa2b1e5ac37",
+"short_name": "Google Drive",
+"keyword": "drive.google.com",
+"input_encodings": "UTF-8",
+"prepopulate_id": 0,
+"last_modified": 13196990983925922
+            "suggestions_url": "https://www.bing.com/osjson.aspx?
+query\u003d{searchTerms}\u0026language\u003d{language}
+\u0026PC\u003dU316",
+            "image_url_post_params":
+"imageBin\u003d{google:imageThumbnailBase64}",
+            "favicon_url": "https://www.bing.com/sa/simg/
+bing_p_rr_teal_min.ico",
+            "safe_for_autoreplace": true,
+            "date_created": 0,
+            "image_url": "https://www.bing.com/images/detail/search?
+iss\u003dsbiupload\u0026FORM\u003dCHROMI#enterInsights",
+            "url": "https://www.bing.com/search?q\u003d{searchTerms}
+\u0026PC\u003dU316\u0026FORM\u003dCHROMN",
+            "new_tab_url": "https://www.bing.com/chrome/newtab",
+            "originating_url": "",
+            "sync_guid": "62489eca-c303-4bf0-9cbb-4f5e86fb1179",
+            "short_name": "Bing",
+            "keyword": "bing.com",
+            "input_encodings": "UTF-8",
+            "prepopulate_id": 3,
+            "last_modified": 13257499763260264
+},
+{
+            "suggestions_url": "https://ac.ecosia.org/autocomplete?
+q\u003d{searchTerms}\u0026type\u003dlist",
+            "favicon_url": "https://cdn.ecosia.org/assets/images/ico/
+favicon.ico",
+            "safe_for_autoreplace": true,
+            "date_created": 0,
+            "url": "https://www.ecosia.org/search?q\u003d{searchTerms}
+\u0026addon\u003dopensearch",
+            "new_tab_url": "",
+            "originating_url": "",
+            "sync_guid": "485bf7d3-0215-45af-87dc-538868000101",
+
+ },
+{
+"short_name": "Ecosia",
+"keyword": "ecosia.org",
+"input_encodings": "UTF-8",
+"prepopulate_id": 101,
+"last_modified": 0
+"suggestions_url": "",
+"favicon_url": "https://thepiratebay.org/favicon.ico",
+"safe_for_autoreplace": true,
+"date_created": 13196992140494158,
+"url": "http://thepiratebay.org/search/{searchTerms}",
+"new_tab_url": "",
+"originating_url": "https://thepiratebay.org/
+opensearch.xml",
+            "sync_guid": "48116d5f-6dc7-4b0b-be31-b30211782005",
+            "short_name": "The Pirate Bay",
+            "keyword": "thepiratebay.org",
+            "input_encodings": "UTF-8",
+            "prepopulate_id": 0,
+            "last_modified": 13196992140494158
+},
+{
+            "suggestions_url": "",
+            "favicon_url": "http://www.thepiratebayorg.org/
+favicon.ico",
+            "safe_for_autoreplace": true,
+            "date_created": 13196990887819642,
+            "url": "http://www.thepiratebayorg.org/?
+q\u003d{searchTerms}\u0026page\u003d0\u0026orderby\u003d99",
+            "new_tab_url": "",
+},
+{
+"originating_url": "",
+"sync_guid": "3543d58a-0af3-46de-ba44-d990d3c90712",
+"short_name": "thepiratebayorg.org",
+"keyword": "thepiratebayorg.org",
+"input_encodings": "UTF-8",
+"prepopulate_id": 0,
+"last_modified": 13196990887819642
+"suggestions_url": "",
+"favicon_url": "https://listings.switter.at/favicon.ico",
+"safe_for_autoreplace": true,
+"date_created": 13187256290883864,
+"url": "https://listings.switter.at/?
+utf8\u003d%E2%9C%93\u0026query\u003d{searchTerms}",
+            "new_tab_url": "",
+            "originating_url": "",
+            "sync_guid": "29265a15-9224-4941-8fd4-f4062f69c3c4",
+            "short_name": "listings.switter.at",
+
+ },
+{
+"keyword": "listings.switter.at",
+"input_encodings": "UTF-8",
+"prepopulate_id": 0,
+"last_modified": 13187256290883864
+"suggestions_url": "",
+"favicon_url": "https://www.ebay.com/favicon.ico",
+"safe_for_autoreplace": true,
+"date_created": 13197508912550930,
+"url": "https://www.ebay.com/sch/i.html?
+_from\u003dR40\u0026_trksid\u003dp2380057.m570.l1313.TR2.TRC1.A0.H0.Xw
+omens+carhart+jeans.TRS0\u0026_nkw\u003d{searchTerms}
+\u0026_sacat\u003d0",
+}
+]
+}
+"new_tab_url": "",
+"originating_url": "",
+"sync_guid": "b376fb3f-bf55-40aa-94b3-3cdfa7213e75",
+"short_name": "ebay.com",
+"keyword": "ebay.com",
+"input_encodings": "UTF-8",
+"prepopulate_id": 0,
+"last_modified": 13197508912550930
